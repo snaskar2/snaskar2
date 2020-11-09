@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 😄 I’m currently a BME junior @CityU HK
 - 🌱 I’m currently learning ML & DS
-- 💬 Reach out @email for collaborations or discussion or tea 
+- 💬 Reach out <a href="MAILTO:shounaknaskar@gmail.com">@email</a> for collaborations or discussion or tea 
 
 - ⚡ Fun fact: I enjoy anime and kpop so reach out incase you want to watch something cool together !!!
 
