@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi people, I'm Shounak👋
 
 <!--
 **snaskar2/snaskar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+(Pronounced  Show-ooh-knock)
+
+- 😄 I’m currently a BME junior @CityU HK
+- 🌱 I’m currently learning ML & DS
+- 💬 Reach out @email for collaborations or discussion or tea 
+
+- ⚡ Fun fact: I enjoy anime and kpop so reach out incase you want to watch something cool together !!!
+
