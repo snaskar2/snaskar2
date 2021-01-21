@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 (Pronounced  Show-ooh-knock)
 
-- 😄 I’m currently a BME junior @CityU HK
+- 😄 I’m  a BME junior @CityU HK
 - 🌱 I’m currently learning ML & DS
 - 💬 Reach out <a href="MAILTO:shounaknaskar@gmail.com">@email</a> for collaborations or discussion or tea 
 
