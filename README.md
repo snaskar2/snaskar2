@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 (Pronounced  Show-ooh-knock)
 
-- 😄 I’m  a BME junior @CityU HK
+- 😄 I’m  a BME senior @CityU HK
 - 🌱 I’m currently learning ML & DS
+- 🔭 I worked on autonomous navigation in the last summer 
 - 💬 Reach out <a href="MAILTO:shounaknaskar@gmail.com">@email</a> for collaborations or discussion or tea 
 
 - ⚡ Fun fact: I enjoy anime and kpop so reach out incase you want to watch something cool together !!!
